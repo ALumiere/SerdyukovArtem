@@ -31,27 +31,23 @@ DevTools - анализ запросов/ответов при помощи Cons
 
 </a>
 <a href="https://www.atlassian.com/software/jira">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Jira.png" alt="Jira" width="50" height="50" />
-JIRA/Confluence: написание тест-кейсов, чек-листов, инструкций.
-
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/Jira.png" alt="Jira" width="50" height="50" /> 
 </a>
-<a href="https://swagger.io/">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/swagger.png" alt="Swagger" width="50" height="50" />
-Swagger
-
-
-
-<p align="left">
 </a>
 <a href="https://www.gurock.com/testrail">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/TestRail.png" alt="TestRail" width="50" height="50" />
 </a>
+JIRA/TestRail/Confluence: написание тест-кейсов, чек-листов, инструкций.
 
+</a>
+<a href="https://swagger.io/">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/swagger.png" alt="Swagger" width="50" height="50" /> 
+</a>
+Swagger
+
+<p align="left">
 <a href="https://proxyman.io/">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Proxyman.png" alt="Proxyman" width="50" height="50" /> 
-</a>
-<a href="https://grafana.com/">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Grafana.png" alt="Grafana" width="50" height="50" />
 </a>
 <a href="https://firebase.google.com/">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Firebase.png" alt="Firebase" width="50" height="50" /> 
@@ -68,23 +64,11 @@ Swagger
 <a href="https://www.jetbrains.com/teamcity/">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/TeamCity.png" alt="Teamcity" width="50" height="50" />
 </a>
-<a href="https://developer.apple.com/testflight/">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Testflight.png" alt="Testflight" width="50" height="50" />
-</a> 
-<a href="https://developer.apple.com/xcode/">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Xcode.png" alt="Xcode" width="50" height="50" />
-</a> 
-<a href="https://developer.android.com/studio">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Android%20Studio.png" alt="Android Studio" width="50" height="50" />
-</a>
 <a href="https://figma.com">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Figma.svg" alt="Figma" width="50" height="50" /> 
 </a>
 <a href="https://zeplin.io/">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Zeplin.png" alt="Zeplin" width="50" height="50" /> 
-
-
-
 </a>
 <a href="https://localizely.com/">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/localizely.png" alt="Localizely" width="100" height="50" />
