@@ -29,9 +29,6 @@ JIRA/Confluence: написание тест-кейсов, чек-листов, 
 <a href="https://www.gurock.com/testrail">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/TestRail.png" alt="TestRail" width="50" height="50" />
 </a>
-<a href="https://marketplace.atlassian.com/apps/1014681/zephyr-squad-test-management-for-jira?tab=overview&hosting=cloud">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Zephyr.png" alt="Zephyr" width="50" height="50" />
-</a>
 <a href="https://www.charlesproxy.com/">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Charles.png" alt="Charles" width="50" height="50" />
 </a>
