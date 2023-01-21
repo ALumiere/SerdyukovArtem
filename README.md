@@ -12,7 +12,7 @@ _Меня зовут Роберто. Я QA Enginner - cильный специа
 </a>
 <a href="https://www.telerik.com/fiddler">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Fiddler.png" alt="Fiddler" width="50" height="50" /> <a href="https://www.charlesproxy.com/">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Charles.png" alt="Charles" width="50" height="50" />
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/Charles.png" alt="Charles" width="50" height="50" /> </a>
   
 Fiddler - перехват трафика мобильных устройств, изменения запросов, анализ ответов и ошибок;
 
