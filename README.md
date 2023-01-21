@@ -21,6 +21,8 @@ SQL - запросы Select/Update/Delete/Join;
 </a>
 <a href="https://www.postman.com/">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Postman.png" alt="Postman" width="50" height="50" />
+</a>
+
 Postman (REST) - работа с Swagger, создание/изменения запросов, создание коллекции для воспроизведения полного цикла. Анализ ответов и ошибок;
 
 SoapUI (Soap) - создание/изменения запросов, анализ ответов и ошибок;
@@ -37,12 +39,14 @@ DevTools - анализ запросов/ответов при помощи Cons
 <a href="https://www.gurock.com/testrail">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/TestRail.png" alt="TestRail" width="50" height="50" />
 </a>
+
 JIRA/TestRail/Confluence: написание тест-кейсов, чек-листов, инструкций.
 
 </a>
 <a href="https://swagger.io/">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/swagger.png" alt="Swagger" width="50" height="50" /> 
 </a>
+
 Swagger
 
 <p align="left">
