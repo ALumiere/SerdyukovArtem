@@ -9,7 +9,9 @@ _Меня зовут Роберто. Я QA Enginner - cильный специа
 
 ## Инструменты и технологии
 
-Fiddler - перехват трафика мобильных устройств, изменения запросов, анализ ответов и ошибок;
+</a>
+<a href="https://www.telerik.com/fiddler">
+<img src="https://github.com/qajenna/qajenna/blob/main/icons/Fiddler.png" alt="Fiddler" width="50" height="50" /> Fiddler - перехват трафика мобильных устройств, изменения запросов, анализ ответов и ошибок;
 
 SQL - запросы Select/Update/Delete/Join;
 
@@ -31,9 +33,7 @@ JIRA/Confluence: написание тест-кейсов, чек-листов, 
 </a>
 <a href="https://www.charlesproxy.com/">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Charles.png" alt="Charles" width="50" height="50" />
-</a>
-<a href="https://www.telerik.com/fiddler">
-<img src="https://github.com/qajenna/qajenna/blob/main/icons/Fiddler.png" alt="Fiddler" width="50" height="50" /> 
+
 </a>
 <a href="https://proxyman.io/">
 <img src="https://github.com/qajenna/qajenna/blob/main/icons/Proxyman.png" alt="Proxyman" width="50" height="50" /> 
